@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.next/
+.env
+*.log
+pg_data/
+redis_data/
+es_data/
+minio_data/
+grafana_data/
+certbot/
+.DS_Store
+Thumbs.db
+coverage/
+.turbo/
